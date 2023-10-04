@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-public class Fox_Position : MonoBehaviour
+public class Fi_Position : MonoBehaviour
 {
     //Inspector'da değişkenimizin düzenlemsini sağlar.
     [SerializeField] TMP_Text saveWarning;
