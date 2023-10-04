@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Fi_Controller : MonoBehaviour
+public class Fi_Camera : MonoBehaviour
 {
     [SerializeField] GameObject player;
     [SerializeField]
