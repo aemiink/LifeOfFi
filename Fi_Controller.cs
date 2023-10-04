@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FiController : MonoBehaviour
+public class Fi_Controller : MonoBehaviour
 {
     [SerializeField] float movementSpeed = 5f;
     float normallySpeed;
